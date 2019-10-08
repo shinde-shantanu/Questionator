@@ -44,9 +44,4 @@ This module was done by Mrs. Shruti Kanatt . This was a telegram chatbot, but be
 
 ## 3.TextAnalysisInTheEntertainmentDomain
 
-This module was redundant work by Shantanu Shinde. This utilizes a completely different platfom from the current api. Can be utilised as an alternative if the current question Generation feels insufficient.
-
-
-This completes our Installation of the questionator. This document is prepared by Naeem Patel, so in case of any doubt do ping me on the mail. My mail is naeempatel010@gmail.com.
-
-# All the best for the installation. 
+This utilizes a completely different platfom from the current api. Can be utilised as an alternative if the current question Generation feels insufficient.
