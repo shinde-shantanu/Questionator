@@ -14,7 +14,7 @@ import uuid
 
 from tornado.options import define, options
 
-TOKEN = '818565983:AAEVGo0gQ2yugr1MPhwVDz3LNTja19NSU7k'
+TOKEN = '' #Enter api key
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 text_question1 = 'http://c568adc5.ngrok.io/sentence'
 face_detection = 'http://ef6cb556.ngrok.io'
