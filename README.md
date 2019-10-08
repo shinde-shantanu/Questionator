@@ -9,19 +9,18 @@ Every folder has it's own readme to install the respective API. In order to inst
 
 ## 1. ImagesAnalysisInTheEntertainmentDomain
 
-This is the face recognition api code base. This module is responsible for the caption generation. The details on how to run the api will be provided by the respective creator.If any query while installation Mr.Animesh can be contacted regarding this.
-  
+This is the face recognition api code base. This module is responsible for the caption generation. 
+
 ## 2. ImageAnalysisInTheSportsDomain
 
-This is the face recognition api section. This module does the task of recognising the face of the sportsperson and return the classification from set of trained people. As usual the module contains All the steps to run the module. This was done by Mr. Siddhesh Despande.
-
+This is the face recognition api section. This module does the task of recognising the face of the sportsperson and return the classification from set of trained people. As usual the module contains All the steps to run the module.
 ## 3. TextAnalysisInSportsDomain
 
-This is the question Generation module. This module is responsible for generating question from text. The steps will be provided in the readme.For any information, Please contact Mr. Naeem Patel.
+This is the question Generation module. This module is responsible for generating question from text. The steps will be provided in the readme.
 
 ## 4. optionGeneration
 
-This is the option generation module. As usual you just need to check the readme file. This was handled by Mr. Shantanu Shinde
+This is the option generation module. As usual you just need to check the readme file.
 
 ## Website
 After running all the above four api on the respective AWS instance, we can now move onto the Front-End.
@@ -40,7 +39,7 @@ This module uses tf-idf to cluster the news article. As of now, it is not necess
 
 ## 2. GamingPlatformWithRealTimePlayerCapacity
 
-This module was done by Mrs. Shruti Kanatt . This was a telegram chatbot, but because we never could truly grasp on how to use it, we switched to the web platform.
+This was a telegram chatbot, but because we never could truly grasp on how to use it, we switched to the web platform.
 
 ## 3.TextAnalysisInTheEntertainmentDomain
 
